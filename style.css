@@ -21,7 +21,10 @@ section {
 
 h1 {
   font-size: 2.5rem;
-  font-family: 'Rubik Dirt', cursive;
+  font-family: 'Prompt', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  font-family: 'Ubuntu Mono', monospace;
+  color: #260c23;
 }
 
 .seccion-oscura {
@@ -37,7 +40,9 @@ h1 {
 .seccion-titulo {
   font-size: 2rem;
   padding: 15px 0;
-  font-family: 'Rubik Dirt', cursive;
+  font-family: 'Prompt', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Ubuntu Mono', monospace;
 }
 
 .seccion-descripcion {
@@ -281,7 +286,7 @@ h1 {
 
 .contacto .rectangulo {
   margin-top: -5rem;
-  background-color: rgb(13, 110, 253);
+  background-color:#008fff;
   border-radius: 10px;
   box-shadow: 0px 1px 4px 1px white;
 }
@@ -363,7 +368,7 @@ footer {
 
 .iconos-redes-sociales a:hover {
   background-color: white;
-  border: 2px solid rgb(13, 110, 253);
+  border: 2px solid #6e535b;
 }
 
 .iconos-redes-sociales a:hover i {
